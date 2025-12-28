@@ -2,3 +2,4 @@ streamlit
 feedparser
 nltk
 pandas
+yfinance
